@@ -1,0 +1,1 @@
+This a product file to store information about the products
